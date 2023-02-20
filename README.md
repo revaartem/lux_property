@@ -3,7 +3,7 @@
 This project is a web application based on Python Django, using HTML, CSS, and Bootstrap. The backend part was written in Django, and the templates were downloaded for free.
 
 The web-app has five main sections:
-> Home Page
+> Home Page <br>
 > Our Offers
 > Services
 > About Us
