@@ -1,4 +1,4 @@
-Lux Property
+#Lux Property
 
 This project is a web application based on Python Django, using HTML, CSS, and Bootstrap. The backend part was written in Django, and the templates were downloaded for free.
 
@@ -25,16 +25,24 @@ git clone https://github.com/<username>/lux-property.git
 Create a virtual environment and activate it.
 
 Install the requirements using the command:
+```
 pip install -r requirements.txt
+```
 
 Create a database and make migrations:
+```
 python manage.py migrate
+```
 
 Create a superuser:
+```
 python manage.py createsuperuser
+```
 
 Run the development server:
+```
 python manage.py runserver
+```
 
 Access the application on http://127.0.0.1:8000/
 
