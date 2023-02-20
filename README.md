@@ -19,7 +19,7 @@ Installation:
 
 Clone the repository using the command:
 ```
-git clone https://github.com/revaartem/lux-property.git
+git clone https://github.com/revaartem/lux-property
 ```
 
 Create a virtual environment and activate it.
