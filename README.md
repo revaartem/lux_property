@@ -3,11 +3,11 @@
 This project is a web application based on Python Django, using HTML, CSS, and Bootstrap. The backend part was written in Django, and the templates were downloaded for free.
 
 The web-app has five main sections:
-> Home Page <br>
-> Our Offers <br>
-> Services <br>
-> About Us <br>
-> Contact Us <br>
+> [Home Page](https://jellyfish-app-69zdh.ondigitalocean.app/) <br>
+> [Our Offers](https://jellyfish-app-69zdh.ondigitalocean.app/property/menu/) <br>
+> [Services](https://jellyfish-app-69zdh.ondigitalocean.app/services/) <br>
+> [About Us](https://jellyfish-app-69zdh.ondigitalocean.app/about/) <br>
+> [Contact Us](https://jellyfish-app-69zdh.ondigitalocean.app/contact/) <br>
 
 In addition, there is a hidden section - Manager. Access to the Manager section is restricted to users who are part of the 'manager' group. In the Manager section, the manager can process applications from clients. After processing, the application goes to the archive, where it can be deleted.
 
