@@ -18,7 +18,9 @@ All the information on the site is dynamic and can be edited from the admin page
 Installation:
 
 Clone the repository using the command:
+```
 git clone https://github.com/<username>/lux-property.git
+```
 
 Create a virtual environment and activate it.
 
