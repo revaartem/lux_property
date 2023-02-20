@@ -1,4 +1,4 @@
-#Lux Property
+# Lux Property
 
 This project is a web application based on Python Django, using HTML, CSS, and Bootstrap. The backend part was written in Django, and the templates were downloaded for free.
 
